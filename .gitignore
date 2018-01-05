@@ -3,6 +3,4 @@ tiny*
 small*
 marker
 *.o
-sysbench_sbtest.sh
-shutdown.sh
 perf.*
